@@ -1,4 +1,5 @@
 # xfce_installer
-wget -qO- https://raw.githubusercontent.com/yourusername/yourrepository/main/install_xfce.sh | bash
+
+curl -sSL https://raw.githubusercontent.com/fl77ex/xfce_installer/refs/heads/main/install_xfce.sh | bash
 
 
