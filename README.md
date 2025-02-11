@@ -1,2 +1,4 @@
 # xfce_installer
-Install XFCE at Ubuntu
+wget -qO- https://raw.githubusercontent.com/yourusername/yourrepository/main/install_xfce.sh | bash
+
+
